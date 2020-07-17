@@ -119,7 +119,7 @@
                         <xsl:value-of select="$Parse-JSON/ns:ActivityOutputClass/name"/>
                     </name>
                     <status>
-                        <xsl:value-of select="'last ok'"/>
+                        <xsl:value-of select="'1'"/>
                     </status>
                 </data>
             </ns:ActivityInputClass>
